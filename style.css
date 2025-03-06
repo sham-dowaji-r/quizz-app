@@ -1,5 +1,7 @@
+@import "./profile.css";
+
 :root {
-  --bg-color: #fcffc1;
+  --bg-color: #ffedfa;
   --white-color: #fbb4a5;
 }
 
@@ -12,7 +14,7 @@
 body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   align-items: center;
-  background-color: var(--white-color);
+  background-color: #ccdf92;
   padding-bottom: 45px;
 }
 main {
